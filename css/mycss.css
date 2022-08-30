@@ -9,5 +9,9 @@ h1{
 }
 .img-slides{
     max-width: 600px;
-    margin: 3%;
+    margin-left: 3%;
+}
+
+.img-fluid{
+    margin-top:2%;
 }
