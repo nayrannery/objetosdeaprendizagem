@@ -1,0 +1,13 @@
+h1{
+    font-weight: bolder !important;
+    text-align: center;
+}
+.texto-slide{
+    font-size: 2.25rem;
+    color: #252525;
+    text-align: justify
+}
+.img-slides{
+    max-width: 600px;
+    margin: 3%;
+}
